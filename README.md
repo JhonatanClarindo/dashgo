@@ -2,8 +2,8 @@
 
 <<<<<<< HEAD
 <p align="center"  > 
-  <img align='right' width='18%' src="/img/dashboard.jpg" /> 
-  <img width='77%' src="/img/dashResponsive.jpg/" />
+  <img align='right' width='18%' src="/img/dashResponsive.jpg" /> 
+  <img width='77%' src="/img/dashboard.jpg/" />
 </p>
 
 =======
