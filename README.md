@@ -1,13 +1,12 @@
 <h1>Dashgo 📈 📉</h1>
 
-<<<<<<< HEAD
+
 <p align="center"  > 
   <img align='right' width='18%' src="/img/dashResponsive.jpg" /> 
   <img width='77%' src="/img/dashboard.jpg/" />
 </p>
 
-=======
->>>>>>> 07cc8ff7cd35dc85004f2b50d763a4a17eb95621
+
 <p align="center">
   Um dashboard responsivo em construção 🚧
 </p>
